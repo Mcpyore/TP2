@@ -16,7 +16,7 @@ public class Area {
     public Area (Integer id, String nomArea, String telefono){
         this.id=id;
         this.nomArea=nomArea;
-        this.telefono=telefono;
+        this.telefono=telefono;/*CASA*/
     }
     
 }
